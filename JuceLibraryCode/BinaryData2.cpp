@@ -1,0 +1,85 @@
+/* ==================================== JUCER_BINARY_RESOURCE ====================================
+
+   This is an auto-generated file: Any edits you make may be overwritten!
+
+*/
+
+namespace BinaryData
+{
+
+//================== Images.h ==================
+static const unsigned char temp_binary_data_2[] =
+"/*\r\n"
+"  ==============================================================================\r\n"
+"\r\n"
+"  This is an automatically generated GUI class created by the Projucer!\r\n"
+"\r\n"
+"  Be careful when adding custom code to these files, as only the code within\r\n"
+"  the \"//[xyz]\" and \"//[/xyz]\" sections will be retained when the file is loaded\r\n"
+"  and re-saved.\r\n"
+"\r\n"
+"  Created with Projucer version: 4.3.0\r\n"
+"\r\n"
+"  ------------------------------------------------------------------------------\r\n"
+"\r\n"
+"  The Projucer is part of the JUCE library - \"Jules' Utility Class Extensions\"\r\n"
+"  Copyright (c) 2015 - ROLI Ltd.\r\n"
+"\r\n"
+"  ==============================================================================\r\n"
+"*/\r\n"
+"\r\n"
+"#ifndef __JUCE_HEADER_61C39FB97870974__\r\n"
+"#define __JUCE_HEADER_61C39FB97870974__\r\n"
+"\r\n"
+"//[Headers]     -- You can add your own extra header files here --\r\n"
+"#include \"../JuceLibraryCode/JuceHeader.h\"\r\n"
+"//[/Headers]\r\n"
+"\r\n"
+"\r\n"
+"\r\n"
+"//==============================================================================\r\n"
+"/**\r\n"
+"                                                                    //[Comments]\r\n"
+"    An auto-generated component, created by the Projucer.\r\n"
+"\r\n"
+"    Describe your class and how it works here!\r\n"
+"                                                                    //[/Comments]\r\n"
+"*/\r\n"
+"class Images  : public Component\r\n"
+"{\r\n"
+"public:\r\n"
+"    //==============================================================================\r\n"
+"    Images ();\r\n"
+"    ~Images();\r\n"
+"\r\n"
+"    //==============================================================================\r\n"
+"    //[UserMethods]     -- You can add your own custom methods in this section.\r\n"
+"    //[/UserMethods]\r\n"
+"\r\n"
+"    void paint (Graphics& g) override;\r\n"
+"    void resized() override;\r\n"
+"\r\n"
+"    // Binary resources:\r\n"
+"    static const char* k22_jpg;\r\n"
+"    static const int k22_jpgSize;\r\n"
+"\r\n"
+"\r\n"
+"private:\r\n"
+"    //[UserVariables]   -- You can add your own custom variables in this section.\r\n"
+"    //[/UserVariables]\r\n"
+"\r\n"
+"    //==============================================================================\r\n"
+"\r\n"
+"\r\n"
+"    //==============================================================================\r\n"
+"    JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (Images)\r\n"
+"};\r\n"
+"\r\n"
+"//[EndFile] You can add extra defines here...\r\n"
+"//[/EndFile]\r\n"
+"\r\n"
+"#endif   // __JUCE_HEADER_61C39FB97870974__\r\n";
+
+const char* Images_h = (const char*) temp_binary_data_2;
+
+}

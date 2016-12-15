@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>K22Delay (AU).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>K22Delay (All).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>K22Delay (Shared Code).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>K22Delay (VST).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>K22Delay (VST3).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3E9B3C7D4EBD3C94A914EA99</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6F9B77E2CB1751719650CB5A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99F69A72C7B8794D86C0B932</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A16A3B18409ED7C8F9B2C4A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D99C63299B02C4C84F52245A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
