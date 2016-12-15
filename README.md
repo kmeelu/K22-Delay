@@ -10,5 +10,6 @@ Note, if you would simply like the VST file itself, please email me at kmeelu.52
 
 ## Dependencies
 Steinberg VST SDKs - https://www.steinberg.net/en/company/developers.html
+
 JUCE framework - https://www.juce.com/get-juce
 
